@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Update on Michael</title>
+    <link>https://michaelcoooper.uk/tags/update/</link>
+    <description>Recent content in Update on Michael</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2022</copyright>
+    <lastBuildDate>Mon, 11 Apr 2022 23:06:41 +0100</lastBuildDate><atom:link href="https://michaelcoooper.uk/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Blog</title>
+      <link>https://michaelcoooper.uk/blog/first/</link>
+      <pubDate>Mon, 11 Apr 2022 23:06:41 +0100</pubDate>
+      
+      <guid>https://michaelcoooper.uk/blog/first/</guid>
+      <description>Introductions Hi! I&amp;rsquo;m Michael a first year Computer Science student at the University of Warwick and this is my first attempt at creating a personal website and blog!
+A bit about myself first. I am 19 years old and live in a town called Warrington in the beautiful Cheshire countryside. Ideal location for trips to Manchester and Liverpool!
+I am also a student at the Univeristy of Warwick. I study Computer Science and have always been interested by computers, how they work and the many amazing things you can do with them!</description>
+    </item>
+    
+  </channel>
+</rss>
